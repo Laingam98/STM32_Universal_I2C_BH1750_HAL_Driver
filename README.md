@@ -22,10 +22,10 @@ The strength of this driver lies in its portability. To adapt this code to any S
 1.  **I2C Reconfiguration:** In STM32CubeIDE, enable the desired I2C peripheral (e.g., I2C1, I2C3) and map the SCL and SDA pins to the physical pins on your target board.
 2.  **Code Linkage:** The driver (`BH1750.h`) only requires the `I2C_HandleTypeDef` structure, ensuring a clean, universal interface across all HAL versions.
 
-*:<img width="1387" height="743" alt="bh1750" src="https://github.com/user-attachments/assets/2065d2af-8f2c-4219-a35f-7deca80624ea" />*
+*<img width="1280" height="640" alt="bh1750" src="https://github.com/user-attachments/assets/2065d2af-8f2c-4219-a35f-7deca80624ea" />*
 
 ## 🔗 Connect with the Embedded Engineer
 
-If this code helped your project, connect to discuss Embedded Systems and Edge AI
+If this code helped your project, connect to discuss Embedded Systems and Edge AI:
 
 * [**LinkedIn Profile**](https://www.linkedin.com/in/laingam98) (Embedded Systems Engineer | Edge AI Deployment)
