@@ -6,7 +6,7 @@ The driver is written in clean, universal Embedded C, ensuring easy migration be
 
 ---
 
-## 🛠 Project Components & Keywords
+## Project Components & Keywords
 
 * **Target MCU Family:** STM32L4, STM32F4, etc. (Universal Design)
 * **Sensor:** BH1750 Digital Ambient Light Sensor
@@ -15,7 +15,7 @@ The driver is written in clean, universal Embedded C, ensuring easy migration be
 * **Language:** Embedded C/C++
 * **Functionality:** Direct measurement output in **Lux (lx)** units.
 
-## ⚙️ Universal Portability Guide
+## Universal Portability Guide
 
 The strength of this driver lies in its portability. To adapt this code to any STM32 board:
 
@@ -24,7 +24,7 @@ The strength of this driver lies in its portability. To adapt this code to any S
 
 *<img width="1280" height="640" alt="bh1750" src="https://github.com/user-attachments/assets/2065d2af-8f2c-4219-a35f-7deca80624ea" />*
 
-## 🔗 Connect with the Embedded Engineer
+## Connect with the Embedded Engineer
 
 If this code helped your project, connect to discuss Embedded Systems and Edge AI:
 
